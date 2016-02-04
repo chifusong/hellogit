@@ -4,6 +4,7 @@
 <html>
 <body>
 <h1>Input.jsp</h1>
+<h1>Input2.jsp</h1>
 <s:form action="echo">
 	<s:textfield name="message" label="訊息" />
 	<s:submit />

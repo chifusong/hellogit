@@ -3,7 +3,7 @@
 
 <html>
 <body>
-
+<H1>result.jsp</H1>
 結果
 <s:property value="message" />
 </body>
